@@ -1,0 +1,389 @@
+[33mcommit 7e2495bd7955d89dc15ab32242c0f31f052eae7b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Sat Jul 29 02:33:13 2023 +0400
+
+    fixing
+
+[33mcommit b6b63589bd090de01723c3e75873e9ef766aa4f1[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Sat Jul 29 02:27:22 2023 +0400
+
+    dashboard wip, rides removed
+
+[33mcommit e2f6cecc73a335ae355d553d96055929b005fb73[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Thu Jul 27 03:59:58 2023 +0400
+
+    second table coordsconverted
+    time to finish pt 1
+
+[33mcommit aa49e02bc53d8eed1e2728e4b01633848547bb82[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Thu Jul 27 01:57:57 2023 +0400
+
+    Cords converted to DD, Working on fixing bad cord
+
+[33mcommit 90c5a7eb18a0dbb7bf39cb961bf867bba5684749[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Wed Jul 26 23:46:37 2023 +0400
+
+    the basic map works with the most basic function
+
+[33mcommit 584c15f49a1f5a7086772c1573e8fe5f52afb547[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Wed Jul 26 23:21:08 2023 +0400
+
+    coordinates fixed
+
+[33mcommit a94a90c23333d86bef638c2015bd74340240079e[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Wed Jul 26 03:53:35 2023 +0400
+
+    test dashboard being made, major pain
+
+[33mcommit 5715583a2ba434c71ada771132ca005e64f1a75d[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Tue Jul 25 18:59:27 2023 +0400
+
+    hard_starts implemented
+
+[33mcommit 7a3647d1aff65543b830566a6e811e68a199257c[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Tue Jul 25 18:57:29 2023 +0400
+
+    hard_stops fixed
+
+[33mcommit 7eb68a147b2ba8d7764b4a1e4249a1e45cc85cc8[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Tue Jul 25 18:43:30 2023 +0400
+
+    hard stop and start counter being worked on
+
+[33mcommit 96e4cc465234fb58baacc906e5a8b3e733683f2f[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Tue Jul 25 03:04:17 2023 +0400
+
+    locations done
+
+[33mcommit 0f8dbf92793bfe76065b08ff4997051ef3185d45[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Tue Jul 25 03:02:50 2023 +0400
+
+    finishing for the night
+
+[33mcommit 2143f500711a4d48e8c42ec018d239036d631bca[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Tue Jul 25 02:49:48 2023 +0400
+
+    location fetecher working
+
+[33mcommit 9d7b1881770742e58e81be59d85c1cb36e160e00[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Sun Jul 23 18:04:53 2023 +0400
+
+    pre optimization
+
+[33mcommit 11c08958df7eb04e342734b7f2195d8338a0da95[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Thu Jul 20 21:38:39 2023 +0400
+
+    fixing mapbox
+
+[33mcommit 359184cb0d07be60370dd4a7aae394f1939aa405[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Mon Jul 17 20:12:07 2023 +0400
+
+    Coordinates converted
+
+[33mcommit 7a9e0142efdcd264c06a38907faa595b6f3fed1d[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Mon Jul 17 20:04:40 2023 +0400
+
+    Changed to plotly from matplotlib
+
+[33mcommit 6613bbd9cb49aef9c43949a74ba3326868a80a57[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jul 14 15:40:57 2023 +0400
+
+    Smaller fixes
+
+[33mcommit 6530abb8dd458dac88a0b551127aa82d76b29bfa[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jul 14 15:34:19 2023 +0400
+
+    Distance added
+
+[33mcommit cdf0e91f6d4eee9710eb8b1d84bbba9f510eb0b3[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jul 14 14:50:59 2023 +0400
+
+    Smaller improvements
+
+[33mcommit 21ea5a49c5deedc2529591b5a93003eab50f5636[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jul 14 02:41:38 2023 +0400
+
+    time table and derivative table made
+
+[33mcommit f4cd5af78933d6219706242710065f4ff5f7d13a[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jul 14 02:13:22 2023 +0400
+
+    difference file made, reliability double checked, empty rows in sqltable2 but thats intended
+
+[33mcommit c0d20d80843825d18e7512bd0c17d4a53257521e[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Thu Jul 13 15:40:03 2023 +0400
+
+    Second Table Working, going to start with filterat
+
+[33mcommit bc3bd5198ff362ceb246e72ae4c09bfc5d3a9136[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Mon Jul 10 15:33:38 2023 +0400
+
+    Table ID serialized
+
+[33mcommit 695a03bc5a63f7691d01d85c62ff6dc793324b22[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Sun Jul 9 02:53:05 2023 +0400
+
+    second table works, need to work on the gap filler and figure out why theres gaps. DO NOT PULL FROM HERE FOR FUTURE
+
+[33mcommit 7484f08c9be1dfbeb593e637b487e7725f77d599[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jul 7 02:29:18 2023 +0400
+
+    second table working, full implementation soon
+
+[33mcommit a85e32ca9d8eab87e291db99c42ca975bb5bebe3[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jul 7 01:15:49 2023 +0400
+
+    Final steps before table 2
+
+[33mcommit 4160b26152f653ffc9d34a7667283e946e9fd020[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Thu Jul 6 03:07:54 2023 +0400
+
+    computVision throwing issues, second table cannot proceed til that is fixed
+
+[33mcommit eace834a5a5f600ad6522fa554dbb2d1fae8a9d7[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Thu Jul 6 02:13:21 2023 +0400
+
+    working on second table
+
+[33mcommit 8007b38e7a2f746ef7833be251a61c15bdae45a0[m
+Merge: 5fec9a1 dff9276
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Tue Jul 4 02:03:05 2023 +0400
+
+    Merge branch 'main' of https://github.com/ahnafaf/instagram-bot-detector
+
+[33mcommit 5fec9a17a83fc29498a17ccf2ccc3e50fc101f09[m
+Merge: 4f1cdd1 21028cb
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Tue Jul 4 02:03:00 2023 +0400
+
+    Merge branch 'main' of https://github.com/ahnafaf/instagram-bot-detector
+
+[33mcommit dff92765771ebcc09273173cde868e708fb974f5[m
+Author: muzman123 <muzammilmuhammad12@gmail.com>
+Date:   Mon Jul 3 15:58:58 2023 -0600
+
+    fixing commit mistakes
+
+[33mcommit 4f1cdd1cf511239914c6d596a144967fbdecd4b8[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Tue Jul 4 01:52:12 2023 +0400
+
+    table fixed
+
+[33mcommit 21028cbff3410ef1ef6ed23a950045d77d749bfe[m
+Author: muzman123 <muzammilmuhammad12@gmail.com>
+Date:   Mon Jul 3 15:49:48 2023 -0600
+
+    made changes to regex and computvision
+
+[33mcommit bdf862f115dd011ef3f631177e68ea35130937b0[m
+Author: muzman123 <muzammilmuhammad12@gmail.com>
+Date:   Mon Jul 3 01:13:41 2023 -0600
+
+    Data table work in progress
+
+[33mcommit cc9a8c311a119dd8ac2b351e6a221bcad7f8529d[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Mon Jul 3 03:11:33 2023 +0400
+
+    working on setting composite key and CREATE IF does not exist
+
+[33mcommit bd3367e1126ac5efaa3a96b0fc2ad8581c65b66e[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Sun Jul 2 02:42:23 2023 +0400
+
+    rewriting openCV
+
+[33mcommit efbcbc3aa69e2c1247726e396e6b35f9b3f7525b[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jun 30 22:28:58 2023 +0400
+
+    first table works
+
+[33mcommit e928ccf2d6abcf182c7ff820a625f0baf367bcef[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jun 30 22:00:21 2023 +0400
+
+    making the sql command
+
+[33mcommit c0d05a3a5512a18beaa4a13edec162ef71bb2428[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jun 30 21:42:40 2023 +0400
+
+    more minor fixes
+
+[33mcommit 0adc42a092282615f740a22d0ec27cb4e1ff5f98[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jun 30 21:31:24 2023 +0400
+
+    final run before sql add
+
+[33mcommit b2a7d87071c64aac2dba0aa91053cc03174ae948[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jun 30 00:59:38 2023 +0400
+
+    files deleted, optimization, preparing for first sql table
+
+[33mcommit 8c4a6e82461f0b903aff49755b30b02a2aeda37b[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Wed Jun 28 15:34:34 2023 +0400
+
+    rideSeperator working
+
+[33mcommit 1da84e9299f43fc56fd9731520c9c241d6d467b2[m
+Author: muzman123 <muzammilmuhammad12@gmail.com>
+Date:   Mon Jun 26 17:27:04 2023 -0600
+
+    table one halfway done; need to separate rides
+
+[33mcommit 0586c315956334560ead49257c7ef92d4ed69f75[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Mon Jun 26 12:40:32 2023 +0400
+
+    major changes, compiling first table
+
+[33mcommit 24461de57402c58302ea315ede56aa82043b7917[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Fri Jun 23 01:18:14 2023 +0400
+
+    sql insert fail: tbd tomorrow
+
+[33mcommit 39ac74a4cf8753f3123e7fec246321a08d738d31[m
+Author: muzman123 <muzammilmuhammad12@gmail.com>
+Date:   Thu Jun 22 08:50:20 2023 -0600
+
+    changes made to computVision
+
+[33mcommit 1987fd7c9fe61ceae4aef9dc0e9f127dd58a909d[m
+Merge: b26718d 9d5ee46
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Thu Jun 22 16:18:08 2023 +0400
+
+    Merge branch 'main' of https://github.com/ahnafaf/instagram-bot-detector
+
+[33mcommit b26718d6bcadd5beb528cea3998bfa58f8f9cfa9[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Thu Jun 22 16:17:33 2023 +0400
+
+    regex cleaned
+
+[33mcommit 9d5ee4624163e06afb22c28811b83b6235a503ad[m
+Author: ahnafaf <108675365+ahnafaf@users.noreply.github.com>
+Date:   Wed Jun 21 19:45:38 2023 +0400
+
+    changes to computVision
+
+[33mcommit d8f817791d02a97907d445f5cd791f85f8116fad[m
+Merge: 7d1c1cb e5e96ee
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Wed Jun 21 19:43:48 2023 +0400
+
+    please merge
+
+[33mcommit 7d1c1cb4c70e68be2b3d8075d4d151e73e377103[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Wed Jun 21 19:18:07 2023 +0400
+
+    regular expression fixed
+
+[33mcommit e32099756a49371aee18dbbd0ee9c4ab624afd62[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Wed Jun 21 19:14:03 2023 +0400
+
+    regular expression fixed
+
+[33mcommit e5e96eec900522a2f025028f72e7fbdd98042c95[m
+Author: muzman123 <muzammilmuhammad12@gmail.com>
+Date:   Wed Jun 21 08:54:47 2023 -0600
+
+    changes to computVision
+
+[33mcommit 046b52b5a045df7f899947828c3703980c70ee27[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Wed Jun 21 18:47:13 2023 +0400
+
+    regular exp added
+
+[33mcommit 28d283a72d9b858031500a15f879ba5556da705c[m
+Author: muzman123 <muzammilmuhammad12@gmail.com>
+Date:   Tue Jun 20 16:41:01 2023 -0600
+
+    ride increment algo
+
+[33mcommit 0ac6385cc87bda34eabaa1e14605fae695d75881[m
+Merge: 1a7af7e da1af21
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Wed Jun 21 02:28:44 2023 +0400
+
+    Merge branch 'main' of https://github.com/ahnafaf/instagram-bot-detector
+
+[33mcommit 1a7af7e3ce6d54cccfd0837ee1e9196520b99596[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Wed Jun 21 02:27:14 2023 +0400
+
+    New Update to OCR
+
+[33mcommit da1af21ec9804a9895e97485d50cf75b6281435a[m
+Author: ahnafaf <108675365+ahnafaf@users.noreply.github.com>
+Date:   Tue Jun 20 17:44:51 2023 +0400
+
+    Update README.md
+
+[33mcommit 95a704dfcb15ec05b2c9cad3412dccc29bd49558[m
+Author: muzman123 <muzammilmuhammad12@gmail.com>
+Date:   Thu Jun 15 05:11:59 2023 -0600
+
+    test2
+
+[33mcommit 05b8cf3256cca7e1a14661510bd28331f57f259f[m
+Author: ahnafaf <108675365+ahnafaf@users.noreply.github.com>
+Date:   Tue Jun 6 22:11:04 2023 +0400
+
+    Update README.md
+
+[33mcommit f4f915fa2365da4c4e7f67c191a83f5711a92ff2[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Tue Jun 6 22:08:22 2023 +0400
+
+    failing
+
+[33mcommit f17d79026bc3f06ecb5fe05418c819f67d7f6d9d[m
+Author: ahnafaf <ahnaf.ahsan9@gmail.com>
+Date:   Wed May 31 10:13:52 2023 +0400
+
+    first commit, insta api works
+
+[33mcommit 12dc5dc3077253dbf712c273e2703598cbd10098[m
+Author: ahnafaf <108675365+ahnafaf@users.noreply.github.com>
+Date:   Wed May 31 10:03:42 2023 +0400
+
+    Initial commit
