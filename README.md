@@ -13,3 +13,6 @@ Currently, there's no master script, however, one will be implemented soon. In t
 3. Execute `plotly-test-dashboard.py` to run the app.
 
 Please remember that this is very preliminary information. If there's enough interest in the project, plans for scalability and dockerization will be considered for ease of use.
+
+![Dashboard Insights](https://github.com/ahnafaf/Dashcam-Footage-Analyzer/assets/108675365/8ab8ca53-19a2-4bc3-9182-f5294a9a1a12)
+![Frontal](https://github.com/ahnafaf/Dashcam-Footage-Analyzer/assets/108675365/5b8c8111-ccce-41c2-8636-770913d446e2)
